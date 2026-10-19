@@ -29,9 +29,9 @@ Check network settings, routing, and test DNS/connectivity:
 -ip route
 -ping 8.8.8.8
 -ping google.com
-![IP Address](../screenshots/Lab_04_Network.png)
-![Ping IP Address](../screenshots/Lab_04_Network[2].png)
-![Pinging Google](../screenshots/Lab_04_Network[3].png)
+![IP Address](../screenshots/Lab_04_Networking.png)
+![Ping IP Address](../screenshots/Lab_04_Networking[2].png)
+![Pinging Google](../screenshots/Lab_04_Networking[3].png)
 ##Services
 Inspect background services on systemd-based Linux systems:
 -systemctl status ssh
